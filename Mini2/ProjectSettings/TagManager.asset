@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Cylinder
+  - Cat
+  - Wall
+  - PropBoom1
+  - PropPause1
+  - PropDraw1
+  - pieces
+  - PropBoom2
+  - PropBoom3
+  - PropBoom4
+  - PropBoom5
+  - PropBoom6
+  - PropBoom7
+  - PropBoom8
+  - PropBoom9
+  - PropBoom10
+  - PropBoom11
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - pieces
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: 1
+    uniqueID: 4072858077
+    locked: 0
